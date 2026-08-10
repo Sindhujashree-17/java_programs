@@ -6,4 +6,3 @@ public class q18_narrowing {
         System.out.println("Int: " + b);
     }
 }
-
