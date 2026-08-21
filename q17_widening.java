@@ -5,5 +5,4 @@ public class q17_widening {
         System.out.println("Int: " + a);
         System.out.println("Double: " + b);
     }
-
 }
