@@ -8,5 +8,3 @@ public class q11_boolean_input {
         sc.close();
     }
 }
-
-
